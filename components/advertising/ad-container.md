@@ -4,13 +4,15 @@ group: components
 subgroup: advertising
 permalink: /components/advertising/ad-container.html
 
-title: Ad Container
-description: Ad Container description
+title: Ad container
+description: This is a card.
 status: Complete
 
-- title: Ad Container
-  description: Ad Container description
-  styleModifier: c-card
+
+variations:
+- title: Ad container
+  description: Ad container description
+  styleModifier: c-ad-container
   codepenUser: jamessocol
   codepenID: POgKgb
 
