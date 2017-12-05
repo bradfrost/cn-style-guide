@@ -9,12 +9,11 @@ title: Horizontal header
 description: Displays a full-width header on wide screens and a hamburger menu on small screens.
 
 variations:
-- title: Horizontal header
-  description: Horizontal header description
+- title: Header
+  description: Global site header
   styleModifier: c-header
-  includeClassification: molecules
-  includeCategory: 02-blocks
-  includeName: card
+  codepenUser: megkadams
+  codepenID: 14b351630eafa69e1626bd187bd99786
 
 usage:
 - title: When to use

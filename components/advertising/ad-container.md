@@ -1,18 +1,18 @@
 ---
 layout: component-detail
 group: components
-subgroup: media
-permalink: /components/media/video.html
+subgroup: advertising
+permalink: /components/advertising/ad-container.html
 
-title: Video
-description: Video description
+title: Ad Container
+description: Ad Container description
+status: Complete
 
-variations:
-- title: Video 
-  description: Video player
-  styleModifier: c-video
+- title: Ad Container
+  description: Ad Container description
+  styleModifier: c-card
   codepenUser: jamessocol
-  codepenID: GOLvER
+  codepenID: POgKgb
 
 usage:
 - title: When to use

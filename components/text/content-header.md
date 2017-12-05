@@ -1,18 +1,18 @@
 ---
 layout: component-detail
 group: components
-subgroup: media
-permalink: /components/media/video.html
+subgroup: text
+permalink: /components/text/content-header.html
 
-title: Video
-description: Video description
+title: Content header
+description: The header area for a piece of content.
 
 variations:
-- title: Video 
-  description: Video player
-  styleModifier: c-video
-  codepenUser: jamessocol
-  codepenID: GOLvER
+- title: Content header
+  description: The header area for a piece of content.
+  styleModifier: c-header
+  codepenUser: RDFroeber
+  codepenID: BmEddK
 
 usage:
 - title: When to use

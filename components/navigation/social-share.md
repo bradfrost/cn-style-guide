@@ -1,18 +1,18 @@
 ---
 layout: component-detail
 group: components
-subgroup: media
-permalink: /components/media/video.html
+subgroup: navigation
+permalink: /components/navigation/social-share.html
 
-title: Video
-description: Video description
+title: Social share
+description: social share widget
 
 variations:
-- title: Video 
-  description: Video player
-  styleModifier: c-video
-  codepenUser: jamessocol
-  codepenID: GOLvER
+- title: Social share
+  description: Social share description
+  styleModifier: c-social-share
+  codepenUser: giles-v
+  codepenID: vWMJJo
 
 usage:
 - title: When to use

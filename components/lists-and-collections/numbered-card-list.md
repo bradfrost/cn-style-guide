@@ -1,18 +1,18 @@
 ---
 layout: component-detail
 group: components
-subgroup: media
-permalink: /components/media/video.html
+subgroup: lists-and-collections
+permalink: /components/lists-and-collections/card-list.html
 
-title: Video
-description: Video description
+title: Numbered Card list
+description: Numbered card list description
 
 variations:
-- title: Video 
-  description: Video player
+- title: Numbered Card list 
+  description: Numbered Card list description
   styleModifier: c-video
-  codepenUser: jamessocol
-  codepenID: GOLvER
+  codepenUser: codingdesigner
+  codepenID: KyYvZv
 
 usage:
 - title: When to use

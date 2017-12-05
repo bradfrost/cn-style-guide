@@ -92,9 +92,11 @@
 
 			<ul class="c-primary-nav__sublist js-nav-dropdown {% assign post_index = '0' %}{% for my_page in site.pages %}{% if my_page.group == 'components' %}{% capture post_index %}{{ post_index | plus: '1' }}{% endcapture %}{% endif %}{% endfor %}{% if page.url contains '/components' %} is-active{% endif %}">
 
+				{% include primary-nav-item.html label='Advertising' subgroup='advertising' %}
+				
 				{% include primary-nav-item.html label='Blocks and cards' subgroup='blocks-and-cards' %}
 
-        {% include primary-nav-item.html label='Buttons' subgroup='buttons' %}
+        		{% include primary-nav-item.html label='Buttons' subgroup='buttons' %}
 
 				{% include primary-nav-item.html label='Charts and graphs' subgroup='charts-and-graphs' %}
 
