@@ -5,15 +5,14 @@ subgroup: text
 permalink: /components/text/text-passage.html
 
 title: Text passage
-description: A passage of text, including various components (i.e. article, blog post)
+description: A passage of text, containing arbitrary HTML
 
 variations:
 - title: Text passage
-  description: Text passage description
-  styleModifier: c-text-passage
-  includeClassification: molecules
-  includeCategory: 02-blocks
-  includeName: card  
+  description: An arbitrary passage of text
+  styleModifier: c-article__body
+  codepenUser: nosamanuel
+  codepenID: KyYvBX
 
 usage:
 - title: When to use
