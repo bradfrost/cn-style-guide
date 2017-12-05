@@ -17,9 +17,12 @@ Design Principles articulate our universal benchmarks for quality. Through this,
 ### For Our Business
 Design Principles provide us with a clear rubrik for decision-making. Through this, they drive consensus and clear communication as we evolve the Design Language.
 
-## The Principles
-* One
-* Two
-* Three
-* Four
-* Five
+## The Principles [draft]
+### Accessible to all.
+Provides transparency and visibility into the capabilities of our digital platforms. Ensures all users can access our content.
+### Flexible in response to needs.
+Of our brands, of our users and in response to emerging editorial and business opportunities.
+### Empowering to collaboration.
+Across disciplines and with our partners across Condé Nast at large. The Design System
+### tbd
+### tbd
