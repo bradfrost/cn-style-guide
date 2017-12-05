@@ -11,6 +11,10 @@ description: Description of the new yorker
 
 ## Design Tokens
 
+## Logo
+
+![New Yorker Logo](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-logo.png?raw=true)
+
 ## Color
 
 ![New Yorker colors](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-colors.png?raw=true)
@@ -24,10 +28,6 @@ description: Description of the new yorker
 ## Iconography
 
 ![New Yorker Eustace](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-eustace.png?raw=true)
-
-## Imagery
-
-![New Yorker Logo](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-logo.png?raw=true)
 
 ## Motion
 
