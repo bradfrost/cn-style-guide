@@ -13,6 +13,8 @@ description: Description of the new yorker
 
 ## Color
 
+![New Yorker colors](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-colors.png?raw=true)
+
 ## Typography
 
 ## Iconography
