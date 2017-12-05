@@ -13,6 +13,12 @@ description: Description of Vogue
 
 ## Color
 
+### Primary
+![Vogue Primary Colors](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-vogue-colors-primary.png)
+
+### Secondary
+![Vogue Secondary Colors](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-vogue-colors-secondary.png)
+
 ## Typography
 
 ## Iconography
