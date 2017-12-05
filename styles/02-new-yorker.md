@@ -23,11 +23,11 @@ description: Description of the new yorker
 
 ## Iconography
 
+![New Yorker Eustace](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-eustace.png?raw=true)
+
 ## Imagery
 
 ![New Yorker Logo](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-logo.png?raw=true)
-
-![New Yorker Eustace](https://github.com/bradfrost/cn-style-guide/blob/master/images/cn-tny-eustace.png?raw=true)
 
 ## Motion
 
